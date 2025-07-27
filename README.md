@@ -234,10 +234,6 @@ The clustering-based approach delivers measurable improvements across all evalua
 3. Make your changes with appropriate tests
 4. Submit a pull request with clear description
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 **Note**: This project demonstrates ML engineering capabilities with healthcare data. Production deployment would require additional compliance validation and regulatory approval.
