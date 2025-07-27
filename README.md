@@ -1,5 +1,10 @@
 # Healthcare Reimbursement Forecasting with Clustering-Based LSTM
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-orange.svg)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1+-green.svg)](https://scikit-learn.org/)
+
 A machine learning pipeline that combines client segmentation with LSTM networks to forecast healthcare reimbursement patterns for insurance companies.
 
 ![Executive Summary](results/figures/executive_summary.png)
@@ -51,7 +56,7 @@ scikit-learn >= 1.1
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/healthcare-lstm-forecasting
+git clone https://github.com/OscarLegoupil/healthcare-lstm-forecasting
 cd healthcare-lstm-forecasting
 pip install -r requirements.txt
 ```
@@ -235,6 +240,10 @@ The clustering-based approach delivers measurable improvements across all evalua
 4. Submit a pull request with clear description
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Note**: This project demonstrates ML engineering capabilities with healthcare data. Production deployment would require additional compliance validation and regulatory approval.
 
